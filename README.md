@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupeshpanwar
 - 👀 I’m interested in ...gardening , reading books , documentaries, travelling , STAYING HEALTHY
-- 🌱 I’m currently learning ...MERN FULL STACK
+- 🌱 I’m currently learning ...K8S in details
 - 💞️ I’m looking to collaborate on ...common interests
 - 📫 How to reach me ...via linkedIn https://www.linkedin.com/in/trackscs/
 
