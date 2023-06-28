@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupeshpanwar
-- 👀 I’m interested in ...gardening , reading books , documentaries, travelling , STAYING HEALTHY
-- 🌱 I’m currently preparing for CKA,CKS & DevSecOps certificate
+- 👀 I’m interested in ...skating , swimming,reading books , documentaries, travelling , STAYING HEALTHY
+- 🌱 I’m currently preparing for CKA,CKS
 - 💞️ I’m looking to collaborate on ...common interests
 - 📫 How to reach me ...via linkedIn https://www.linkedin.com/in/rupeepanwar/
 
